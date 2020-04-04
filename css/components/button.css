@@ -9,7 +9,7 @@
   font-family: 'Comic Neue', cursive;
   font-size: 22px;
   padding: 10px 25px;
-  box-shadow: 0 10px 10px rgba(0,0,0,.1);
+  box-shadow: 0 5px 5px rgba(0,0,0,.1);
 }
 
 .btn-medium:hover {
@@ -26,7 +26,7 @@
   padding: 10px 25px;
   font-weight: bold;
   margin-left: 10px;
-  box-shadow: 0 10px 10px rgba(0,0,0,.1);
+  box-shadow: 0 5px 5px rgba(0,0,0,.1);
 }
 
 .btn-treehouse:hover {
@@ -41,7 +41,7 @@
   padding: 10px 60px;
   border-radius: 8px;
   margin-left: 10px;
-  box-shadow: 0 10px 10px rgba(0,0,0,.1);
+  box-shadow: 0 5px 5px rgba(0,0,0,.1);
   font-weight: 600;
 }
 
